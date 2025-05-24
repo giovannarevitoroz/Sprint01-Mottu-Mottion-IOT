@@ -193,6 +193,6 @@ Projeto pensado para crescimento horizontal:
 
 Assista ao vídeo demonstrativo clicando na imagem abaixo:
 
-[![Clique aqui para assistir](https://img.youtube.com/vi/bBhhPKVa5ZM/0.jpg)](https://youtu.be/bBhhPKVa5ZM)
+[![Assista ao vídeo demonstrativo](https://img.youtube.com/vi/bBhhPKVa5ZM/0.jpg)](https://youtu.be/bBhhPKVa5ZM)
 
 ---

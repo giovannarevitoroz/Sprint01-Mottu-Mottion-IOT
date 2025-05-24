@@ -11,7 +11,7 @@
 | 558986 | Kaian Gustavo de Oliveira Nascimento |
 | 554424 | Lucas Kenji Kikuchi                  |
 
-[![Assista ao vídeo demonstrativo](https://img.youtube.com/vi/bBhhPKVa5ZM/0.jpg)](https://youtu.be/bBhhPKVa5ZM)
+[![Assista ao vídeo demonstrativo](https://img.youtube.com/vi/bBhhPKVa5ZM/0.jpg)](https://www.youtube.com/watch?v=aFcLmGiIeA4)
 
 ## Descrição
 
@@ -193,6 +193,6 @@ Projeto pensado para crescimento horizontal:
 
 Assista ao vídeo demonstrativo clicando na imagem abaixo:
 
-[![Assista ao vídeo demonstrativo](https://img.youtube.com/vi/bBhhPKVa5ZM/0.jpg)](https://youtu.be/bBhhPKVa5ZM)
+[![Assista ao vídeo demonstrativo](https://img.youtube.com/vi/bBhhPKVa5ZM/0.jpg)](https://www.youtube.com/watch?v=aFcLmGiIeA4)
 
 ---
